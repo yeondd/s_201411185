@@ -1,5 +1,5 @@
 use myDB
 show dbs
 show tables
-db.myCol.insert({"Persons":[{"id":"405", "Ïù¥Î¶Ñ":"js1"},{"id":"406", "Ïù¥Î¶Ñ":"js2"}]})
-db.myCol.find({ "Persons.Ïù¥Î¶Ñ": "js1" })
+db.myCol.insert({"Persons":[{"id":"201411185", "¿Ã∏ß":"sy"},{"id":"201411190", "¿Ã∏ß":"sb"}]})
+db.myCol.find({ "Persons.¿Ã∏ß": "sy" })
